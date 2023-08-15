@@ -1,6 +1,6 @@
 const AboutMe = () => {
   return (
-    <div>
+    <div className="container">
       <h2>Bio</h2>
       <p>
         Amanda Aoki is a Japanese American author who has always loved reading

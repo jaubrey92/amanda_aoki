@@ -6,6 +6,7 @@ const Header = () => {
       <nav className="navStyle">
         <Link to="/">Home</Link>
         <Link to="/about">About Me</Link>
+        {/* <h1>Amanda Aoki</h1> */}
         <Link to="/books">Books</Link>
       </nav>
     </header>
