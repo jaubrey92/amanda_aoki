@@ -1,3 +1,23 @@
 body {
   margin: 0;
+  font-family: 'Special Elite', cursive;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+  border: grey solid 2px;
+  margin: 10px;
+  border-radius: 20px;
+  transition: all 0.25s 0.1s;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #52b5b5;
+  padding: 10px;
+  border: #52b5b5 solid 2px;
+  margin: 10px;
+  border-radius: 20px;
 }
