@@ -84,3 +84,7 @@ p {
   border: none;
   cursor: pointer;
 }
+
+.NLLink {
+  width: 100px;
+}

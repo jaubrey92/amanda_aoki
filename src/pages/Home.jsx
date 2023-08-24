@@ -7,6 +7,15 @@ const Home = () => {
           alt="Author Image"
         />
         <h2>Amanda Aoki</h2>
+        <h4>Author</h4>
+        <h4>New Leaf Literary Agency</h4>
+        <a href="https://www.newleafliterary.com/people/amanda-aoki/">
+          <img
+            className="NLLink"
+            src="http://www.newleafliterary.com/wp-content/uploads/2016/05/nl_logo_sm_150.png"
+            alt="New Leaf Literary"
+          />
+        </a>
       </div>
       <a className="logo" href="https://www.instagram.com/amandaaaoki/">
         <img
